@@ -1,0 +1,18 @@
+.main {
+  display: flex;
+  height: 130vh;
+  text-align: left;
+
+  
+}
+
+.side{
+  width: 300px;
+  background-color: goldenrod;
+}
+
+.display{
+  background-color: gray;
+  width: 1050px;
+  
+}
